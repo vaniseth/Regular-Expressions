@@ -1,7 +1,10 @@
 # Regular-Expressions
 
+## What are regular exrpressions?
+A regular expression is a sequence of characters that specifies a search pattern in text or language.
 
-The google colab notebook has problem statements related to the following topics:
+
+## The google colab notebook has problem statements related to the following topics:
  
 1. Introduction to Regular Expressions in Python
 
